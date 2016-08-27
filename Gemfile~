@@ -14,6 +14,11 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'execjs'
+
+gem 'therubyracer'
+
+
 
 gem 'mime-types', '2.6.2'
 # Use jquery as the JavaScript library
